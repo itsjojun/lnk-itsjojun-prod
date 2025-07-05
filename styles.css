@@ -8,8 +8,7 @@ body {
 @font-face {
   font-family: 'Commissioner';
   font-weight: 600;
-  src: local('Commissioner Bold'), local('Commissioner-Bold'), url('https://raw.githubusercontent.com/itsjojun/lnk/main/Commissioner-Bold.woff2') format('woff2');
-  /* Fügen Sie hier das font-display-Attribut hinzu */
+  src: local('Commissioner Bold'), local('Commissioner-Bold'), url('https://raw.githubusercontent.com/itsjojun/lnk-itsjojun-prod/main/Commissioner-Bold.woff2') format('woff2');
   font-display: swap;
 }
 
